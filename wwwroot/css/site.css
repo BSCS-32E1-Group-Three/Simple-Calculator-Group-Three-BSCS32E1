@@ -1,0 +1,95 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.footer {
+    position: fixed;
+    background-color: rgb(36, 36, 36);
+    padding: 5px;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    height: fit-content;
+    color: white;
+}
+.footer p {
+        text-align: center;
+        font-size: 18px;
+}
+
+.footer-abt a {
+    text-decoration: none;
+    color: black;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.container{
+    background-color:lightgray;
+    padding:10px 10px;
+    border-radius:10px;
+    box-shadow:5px 5px 5px gray;
+}
+.num1, .num2, .result {
+    width: 475px;
+    border-radius: 10px;
+    padding: 10px 10px;
+    border: none;
+    background-color: white;
+    text-align: right;
+    cursor: auto;
+    display: flex;
+    flex-grow: initial;
+    margin-bottom: 10px;
+    -moz-appearance: textfield;
+}
+.result {
+    width: 250px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(to right, rgb(60, 144, 144), rgb(145, 213, 145));
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.operator-btn {
+    font-size: 25px;
+    font-weight: 400;
+    background-color: lightskyblue;
+    color: white;
+    border: none;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin-bottom: 10px;
+}
+.title {
+    padding: 10px;
+    background-color: lightgray;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px gray;
+    margin:50px;
+    color:black;
+    font-weight:600;
+}

@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div align="center">
+    <h1 class="title">Simple Calculator</h1> @using (Html.BeginForm())
+            {
+        
+        <div class="container">
+                <input type="number" id="txtFirstNumber" step="0.00001" name="firstNumber" class="num1" placeholder="First Value (max decimal point of '5' | e.g 0.00001)" />
+                <input type="number" id="txtLastNumber" step="0.00001" name="secondNumber" class="num2" placeholder="Second Value (max decimal point of '5' | e.g 0.00001)" />
+                <input type="submit" name="Cal" value="+" class="operator-btn" />
+                <input type="submit" name="Cal" value="-" class="operator-btn" />
+                <input type="submit" name="Cal" value="*" class="operator-btn" />
+                <input type="submit" name="Cal" value="/" class="operator-btn" />
+                <input type="text" class="result" step="0.0001" value=" @ViewBag.Result" readonly placeholder="Result" />
+        </div>
+    }
+</div>
