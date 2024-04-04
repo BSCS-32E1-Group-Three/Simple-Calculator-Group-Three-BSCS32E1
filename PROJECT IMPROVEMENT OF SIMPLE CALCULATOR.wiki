@@ -80,7 +80,7 @@ The current process for software development of the Simple Calculator involves s
 # '''Agile Development Methodology''':
 
 * Adopt an Agile development approach, such as Kanban, to break down development cycles into smaller, manageable iterations (sprints).
-* Prioritize requirements and features based on business value and stakeholder feedback, allowing for incremental delivery and flexibility in adapting to changing needs.
+* Prioritize requirements and features based on the user's feedbacks, allowing for incremental delivery and flexibility in adapting to changing needs.
 * Conduct regular sprint planning, daily stand-up meetings, and sprint reviews to track progress, address issues, and adjust priorities as needed.
 
 # '''User Feedback Mechanisms''':
