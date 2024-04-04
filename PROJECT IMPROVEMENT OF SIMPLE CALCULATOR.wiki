@@ -16,7 +16,7 @@ BY:
 
 In today’s technology, the demand for efficient and user-friendly applications continues to evolve. One such fundamental tool is the calculator, which has been a staple in both personal and professional spheres for decades. However, with the advancements in web development frameworks like ASP.NET MVC and programming languages like C#, there lies an opportunity to enhance the capabilities of traditional calculators and offer users a more intuitive and feature-rich experience.
 
-The Improvement of Simple Calculator using C# in ASP.NET MVC Applications project aims to enhance the standard calculator functionality by the use of C# within the ASP.NET MVC framework. This project seeks to enhance the user experience by implementing additional features such as design, improving usability, and optimizing performance.
+The simple calculator is a utility that is frequently used but often overlooked in terms of design. By integrating modern design principles such as sleek user interfaces, intuitive button layouts, and visually appealing themes, we can transform the mundane task of calculation into an engaging and delightful experience. Adding animations, color schemes, and responsive layouts can elevate the user's interaction with the calculator, making it more enjoyable and efficient.
 
 Moreover, performance optimization techniques are employed to ensure smooth operation even under heavy usage. Customization options cater to diverse user preferences, while rigorous testing methodologies guarantee high standards of quality and reliability. Ultimately, this project seeks to deliver a modern, feature-rich calculator application that meets the evolving needs of users in today's digital landscape.
 
@@ -26,7 +26,7 @@ The current process for software development of the Simple Calculator involves s
 
 # '''Requirements Gathering:'''
 
-* Initially, the requirements for each application are gathered from stakeholders, including functionality, features, and design preferences.
+* Initially, the requirements for each application are gathered including functionality, features, and design preferences.
 * This stage involves discussions, meetings, and documentation to ensure a clear understanding of the project scope.
 
 # '''Design Phase:'''
@@ -90,7 +90,7 @@ The current process for software development of the Simple Calculator involves s
 
 # '''Prioritized Maintenance Tasks:'''
 
-* Implement a prioritization framework (such as the MoSCoW method or the Eisenhower Matrix) to categorize maintenance tasks based on urgency, impact, and effort required.
+* Implement a prioritization framework to categorize maintenance tasks based on urgency, impact, and effort required.
 * Allocate dedicated resources, such as a maintenance team or support staff, to address critical issues promptly and proactively.
 * Establish service level agreements (SLAs) for response times and resolution times to ensure timely resolution of maintenance requests.
 
@@ -128,12 +128,12 @@ Phase 1: Planning and Preparation
 * Milestone 1: Project Kickoff Meeting
 
 * Date: March 8, 2024
-* Objective: Align stakeholders, define project scope, and establish goals.
+* Objective: Align and define project scope, and establish goals.
 
 * Milestone 2: Requirements Gathering
 
 * Date: March 9-11, 2024
-* Objective: Collect detailed requirements for each application from stakeholders.
+* Objective: Collect detailed requirements for each application.
 
 * Milestone 3: Resource Allocation
 
@@ -179,7 +179,7 @@ Phase 4: Deployment and Launch
 * Milestone 11: Deployment and Launch
 
 * Date: April 22 – May 4, 2024
-* Objective: Deploy the Simple Calculator, Simple Rock-Paper-Scissors Game, and Blog Engine to production environments for public use.
+* Objective: Deploy the Simple Calculator to production environments for public use.
 
 * Milestone 12: Post-launch Review
 
@@ -200,7 +200,7 @@ Phase 5: Maintenance and Support
 
 * Resource Allocation:
 
-* Development Team: Software developers, designers, and QA engineers.
+* Development Team: Software developers and designers.
 * Project Manager: Responsible for overall project coordination, scheduling, and communication.
 
 '''EVALUATION AND RISK ASSESSMENT'''
